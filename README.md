@@ -1,9 +1,7 @@
 
----
-title: "House Price Prediction"
-author: "Ron Sarafian"
-output: html_document
----
+# "House Price Prediction"
+Ron Sarafian
+
 
 The following is part of my submission for the [kaggle][1] House Prices competition. The goal is to
 predict House price using advanced Machine Learning methods.
