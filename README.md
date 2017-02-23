@@ -1,7 +1,11 @@
 
 # "House Price Prediction"
 Ron Sarafian
+----------
 
+Open this page in the RPubs server: http://rpubs.com/ronsar/House 
+
+----------
 
 The following is part of my submission for the [kaggle][1] House Prices competition. The goal is to
 predict House price using advanced Machine Learning methods.
